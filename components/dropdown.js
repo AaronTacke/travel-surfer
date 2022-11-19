@@ -16,7 +16,7 @@ export default function Dropdown({items, state, placeholder, setState}) {
                 borderWidth: 1,
                 borderRadius: 10,
                 borderColor: '#ccc',
-                backgroundColor: '#FAF7F6',
+                backgroundColor: state.toString() === placeholder ? '#F8F4F3' : '#FFF',
             }}
             itemStyle={{
                 padding: 10,

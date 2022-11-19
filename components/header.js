@@ -15,6 +15,7 @@ export default function Header() {
 const styles = StyleSheet.create({
     headerView: {
         paddingBottom: 30,
+        paddingTop: 30,
         width: '100%',
         alignItems: 'center',
     },

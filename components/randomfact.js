@@ -21,7 +21,7 @@ export default function RandomFact() {
 
 const styles = StyleSheet.create({
     factView: {
-        paddingTop: 30,
+        paddingTop: 20,
         width: '100%',
         alignItems: 'center',
     },

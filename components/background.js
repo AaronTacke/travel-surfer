@@ -1,6 +1,6 @@
 import { ImageBackground, Dimensions, StyleSheet } from 'react-native';
 
-const background = require('../assets/background.png');
+const background = require('../assets/background2.png');
 const screenHeight = Dimensions.get('window').height;
 const screenWidth = Dimensions.get('window').width;
 
