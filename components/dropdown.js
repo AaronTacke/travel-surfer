@@ -5,7 +5,7 @@ export default function Dropdown({items, state, placeholder, setState}) {
     const items_with_default = items//.concat([state.toString()])
     return (
         <SearchableDropdown
-            onTextChange={text => undefined}
+            onTextChange={text => setState(placeholder)}
             onItemSelect={item => setState(item.name)}
             containerStyle={{ 
                 padding: 5,

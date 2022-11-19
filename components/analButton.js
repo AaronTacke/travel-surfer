@@ -3,7 +3,7 @@ import { StyleSheet, Pressable, Text, View } from 'react-native';
 import checkRoute from '../data/checkRoute';
 
 // Main Button that switches to analysis
-export default function AnalButton({ startPoint, endPoint, placeholder, navigation }) {
+export default function AnalButton({ startPoint, setStartPoint, endPoint, setEndPoint, placeholder, navigation }) {
     const [problemMsg, setProblemMsg] = React.useState('');
 
     // If the input is correct, switch to analysis screen, otherwise show problem
