@@ -1,7 +1,7 @@
 import SearchableDropdown from 'react-native-searchable-dropdown';
 
 // Dropdown menu with unique design supporting large lists
-export default function Dropdown({items, state, setState}) {
+export default function Dropdown({items, state, placeholder, setState}) {
     const items_with_default = items//.concat([state.toString()])
     return (
         <SearchableDropdown
@@ -36,7 +36,7 @@ export default function Dropdown({items, state, setState}) {
             items={items_with_default}
             defaultIndex={items.length}
             placeholder={state}
-            placeholderTextColor={'#222'}
+            placeholderTextColor={state.toString() === placeholder ? '#888' : '#222'}
             resetValue={false}
             //To remove the underline from the android input
             underlineColorAndroid="transparent"

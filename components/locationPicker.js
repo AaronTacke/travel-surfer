@@ -1,18 +1,18 @@
 import { Image, View, StyleSheet, TouchableHighlight } from 'react-native';
 
 // import SearchableDropdown component
-import Dropdown from './searchable-dropdown';
+import Dropdown from './dropdown';
 // import Munich Stations based on OpenData
 import { stations } from './locations'
 // gets current location of user
 import findMe from './geotracker';
 
-export default function LocationPicker({ state, setState }) {
+export default function LocationPicker({ state, placeholder, setState }) {
     // Shows textfield to search for a station and a button
     // to find the current position of the mobile device
     return (
         <View style={styles.locationContainer}>
-            <Dropdown items={stations} state={state} setState={setState} />
+            <Dropdown items={stations} state={state} placeholder={placeholder} setState={setState} />
             <TouchableHighlight style={styles.locationButton} onPress={() => findMe(setState)}>
             <Image style={styles.locationButtonIcon} source={require('../assets/location.png')} />
             </TouchableHighlight>
