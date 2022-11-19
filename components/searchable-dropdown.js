@@ -1,5 +1,6 @@
 import SearchableDropdown from 'react-native-searchable-dropdown';
 
+// Dropdown menu with unique design supporting large lists
 export default function Dropdown({items, state, setState}) {
     const items_with_default = items//.concat([state.toString()])
     return (

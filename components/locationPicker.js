@@ -8,6 +8,8 @@ import { stations } from './locations'
 import findMe from './geotracker';
 
 export default function LocationPicker({ state, setState }) {
+    // Shows textfield to search for a station and a button
+    // to find the current position of the mobile device
     return (
         <View style={styles.locationContainer}>
             <Dropdown items={stations} state={state} setState={setState} />

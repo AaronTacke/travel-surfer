@@ -1,4 +1,4 @@
-
+// Mockup - should use web API in future
 export const stations = [
     { name: "Karlsplatz (Stachus)" },
     { name: "Marienplatz" },
