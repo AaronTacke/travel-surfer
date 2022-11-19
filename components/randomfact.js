@@ -1,4 +1,4 @@
-import { Image, View, StyleSheet, TouchableHighlight } from 'react-native';
+import { Image, View, StyleSheet } from 'react-native';
 
 // List of facts
 const facts_list = [require('../assets/funfact.png')]

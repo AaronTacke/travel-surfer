@@ -1,6 +1,9 @@
 import React, {useState} from 'react';
  
-import {SafeAreaView, StyleSheet, Text, View} from 'react-native';
+import { SafeAreaView, StyleSheet, Text, View} from 'react-native';
+
+import Background from './components/background';
+import Header from './components/header';
  
 // Choose from dropdown, or request location from device
 // Based on city's Open Data program
@@ -17,6 +20,8 @@ const App = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.container}>
+      <Background>
+        <Header />
         <Text style={styles.headlineText}>
           Starting point:
         </Text>
@@ -26,6 +31,7 @@ const App = () => {
         </Text>
         <LocationPicker state={endPoint} setState={setEndPoint}/>
         <RandomFact />
+        </Background>
       </View>
     </SafeAreaView>
   );
