@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     headerLogo: {
-        height: 100,
+        height: 80,
         width: 320,
     },
 });
