@@ -17,8 +17,7 @@ import AnalButton from './analButton';
 // Puts Random facts on the screen for a more enjoyable experience
 import RandomFact from './randomfact';
 
-export default function HomeScreen({ navigation }) {
-
+export default function HomeScreen({navigation}) {
     const initTextfield = 'Choose station or pick current location'
     const [startPoint, setStartPoint] = React.useState(initTextfield);
     const [endPoint, setEndPoint] = React.useState(initTextfield);

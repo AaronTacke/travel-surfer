@@ -4,7 +4,7 @@ const background = require('../assets/background2.png');
 const screenHeight = Dimensions.get('window').height;
 const screenWidth = Dimensions.get('window').width;
 
-// Shows random facts (mockup using images)
+// Shows a background image to improve homescreen UX
 export default function Background({ children }) {
     return (
         <ImageBackground source={background} style={styles.background} resizeMode="stretch">

@@ -2,14 +2,19 @@ import * as React from 'react';
 import { StyleSheet, Pressable, Text, View } from 'react-native';
 import checkRoute from '../data/checkRoute';
 
+// Main Button that switches to analysis
 export default function AnalButton({ startPoint, endPoint, placeholder, navigation }) {
-    const [problemMsg, setProblemMsg] = React.useState('This is a problem');
+    const [problemMsg, setProblemMsg] = React.useState('');
 
+    // If the input is correct, switch to analysis screen, otherwise show problem
     function pressButton() {
         const problem = checkRoute(startPoint,endPoint,placeholder)
         if (problem === ''){
             setProblemMsg('')
-            navigation.navigate('Route Analysis', { name: 'Route Analysis' });
+            const start = startPoint['startPoint']
+            const end = endPoint['endPoint']
+            const title = start.substring(0,11) + " - " + end.substring(0,10)
+            navigation.navigate('Route Analysis', { name: title, start: start, end: end});
         } else {
             setProblemMsg(problem);
         }
@@ -22,7 +27,7 @@ export default function AnalButton({ startPoint, endPoint, placeholder, navigati
             </Text>
             <Pressable
                 style={[styles.analButton,
-                {
+                { // Color of button depends on whether the input is correct
                     backgroundColor: checkRoute(
                         startPoint = { startPoint },
                         endPoint = { endPoint },

@@ -10,6 +10,7 @@ import AnalysisScreen from './components/analScreen';
 const Stack = createNativeStackNavigator();
  
 const App = () => {
+
   return (
     <NavigationContainer>
       <Stack.Navigator>
@@ -18,7 +19,8 @@ const App = () => {
         component={HomeScreen}
         options={{headerShown: false}}
       />
-    <Stack.Screen name="Route Analysis" component={AnalysisScreen} />
+    <Stack.Screen name="Route Analysis" component={AnalysisScreen}
+    options={({ route }) => ({ title: route.params.name })} />
       </Stack.Navigator>
     </NavigationContainer>
   );
