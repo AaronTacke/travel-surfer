@@ -5,6 +5,9 @@ import {SafeAreaView, StyleSheet, Text, View} from 'react-native';
 // Choose from dropdown, or request location from device
 // Based on city's Open Data program
 import LocationPicker from './components/locationPicker';
+
+// Puts Random facts on the screen for a more enjoyable experience
+import RandomFact from './components/randomfact';
  
 const App = () => {
   const initTextfield = 'Choose station or pick current location'
@@ -14,14 +17,15 @@ const App = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.container}>
-        <Text style={styles.titleText}>
+        <Text style={styles.headlineText}>
           Starting point:
         </Text>
         <LocationPicker state={startPoint} setState={setStartPoint}/>
-        <Text style={styles.titleText}>
+        <Text style={styles.headlineText}>
           Destination:
         </Text>
         <LocationPicker state={endPoint} setState={setEndPoint}/>
+        <RandomFact />
       </View>
     </SafeAreaView>
   );
@@ -35,10 +39,10 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     padding: 10,
   },
-  titleText: {
+  headlineText: {
     padding: 8,
     fontSize: 16,
-    textAlign: 'center',
+    textAlign: 'left',
     fontWeight: 'bold',
   },
   headingText: {
