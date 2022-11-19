@@ -25,11 +25,11 @@ const App = () => {
         <Text style={styles.headlineText}>
           Starting point:
         </Text>
-        <LocationPicker state={startPoint} setState={setStartPoint}/>
+        <LocationPicker state={startPoint} placeholder={initTextfield} setState={setStartPoint}/>
         <Text style={styles.headlineText}>
           Destination:
         </Text>
-        <LocationPicker state={endPoint} setState={setEndPoint}/>
+        <LocationPicker state={endPoint} placeholder={initTextfield} setState={setEndPoint}/>
         <RandomFact />
         </Background>
       </View>
