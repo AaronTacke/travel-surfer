@@ -22,7 +22,8 @@ export default function LocationPicker({ state, placeholder, setState }) {
 
 const styles = StyleSheet.create({
     locationContainer: {
-        width: '96%',
+        paddingRight: 17,
+        width: '90%',
         flexDirection: 'row',
     },
     locationButton: {

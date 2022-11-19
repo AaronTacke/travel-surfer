@@ -28,11 +28,11 @@ export default function HomeScreen({navigation}) {
                 <Background>
                     <Header />
                     <Text style={styles.headlineText}>
-                        Starting point:
+                        Starting point
                     </Text>
                     <LocationPicker state={startPoint} placeholder={initTextfield} setState={setStartPoint} />
                     <Text style={styles.headlineText}>
-                        Destination:
+                        Destination
                     </Text>
                     <LocationPicker state={endPoint} placeholder={initTextfield} setState={setEndPoint} />
                     <AnalButton navigation={navigation}
@@ -52,6 +52,7 @@ const styles = StyleSheet.create({
         padding: 10,
     },
     headlineText: {
+        width: '86%',
         padding: 8,
         fontSize: 16,
         textAlign: 'left',

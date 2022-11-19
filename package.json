@@ -11,6 +11,7 @@
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/react-native-fontawesome": "^0.3.0",
+    "@react-native-masked-view/masked-view": "^0.2.8",
     "@react-navigation/native": "^6.0.13",
     "@react-navigation/native-stack": "^6.9.1",
     "expo": "~47.0.6",
