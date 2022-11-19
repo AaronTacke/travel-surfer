@@ -3,7 +3,7 @@ import { Image, View, StyleSheet, TouchableHighlight } from 'react-native';
 // import SearchableDropdown component
 import Dropdown from './dropdown';
 // import Munich Stations based on OpenData
-import { stations } from './locations'
+import { stations } from '../data/locations'
 // gets current location of user
 import findMe from './geotracker';
 

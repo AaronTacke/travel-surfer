@@ -15,6 +15,7 @@ export default function ReliabilityCheck() {
 
 const styles = StyleSheet.create({
     relView: {
+        marginTop: -15,
         alignItems: 'center',
         flexDirection: 'row',
         justifyContent: 'center',

@@ -13,7 +13,7 @@ export default function AnalButton({ startPoint, endPoint, placeholder, navigati
             setProblemMsg('')
             const start = startPoint['startPoint']
             const end = endPoint['endPoint']
-            const title = start.substring(0,11) + " - " + end.substring(0,10)
+            const title = 'U6 starting ' + start.substring(0,11);
             navigation.navigate('Route Analysis', { name: title, start: start, end: end});
         } else {
             setProblemMsg(problem);

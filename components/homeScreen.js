@@ -18,7 +18,7 @@ import AnalButton from './analButton';
 import RandomFact from './randomfact';
 
 export default function HomeScreen({navigation}) {
-    const initTextfield = 'Choose station or pick current location'
+    const initTextfield = 'Choose a station...'
     const [startPoint, setStartPoint] = React.useState(initTextfield);
     const [endPoint, setEndPoint] = React.useState(initTextfield);
 
