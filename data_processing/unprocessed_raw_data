@@ -1,0 +1,1152 @@
+Nov 19 00:03:23 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:03:23 [  5] local 131.159.209.239 port 46762 connected to 130.162.211.209 port 5201
+Nov 19 00:03:23 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:03:23 [  5]   0.00-0.24   sec  1.05 MBytes  37.4 Mbits/sec    0    167 KBytes       
+Nov 19 00:03:23 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:03:23 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:03:23 [  5]   0.00-0.24   sec  1.05 MBytes  37.4 Mbits/sec    0             sender
+Nov 19 00:03:23 [  5]   0.00-0.28   sec   362 KBytes  10.7 Mbits/sec                  receiver
+Nov 19 00:03:23 
+Nov 19 00:03:23 iperf Done.
+Nov 19 00:03:25 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:03:25 [  5] local 131.159.209.239 port 46766 connected to 130.162.211.209 port 5201
+Nov 19 00:03:25 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:03:25 [  5]   0.00-0.18   sec  1015 KBytes  46.9 Mbits/sec    1   90.5 KBytes       
+Nov 19 00:03:25 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:03:25 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:03:25 [  5]   0.00-0.18   sec  1015 KBytes  46.9 Mbits/sec    1             sender
+Nov 19 00:03:25 [  5]   0.00-0.44   sec   816 KBytes  15.3 Mbits/sec                  receiver
+Nov 19 00:03:25 
+Nov 19 00:03:25 iperf Done.
+Nov 19 00:03:26 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:03:26 [  5] local 131.159.209.239 port 46788 connected to 130.162.211.209 port 5201
+Nov 19 00:03:26 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:03:26 [  5]   0.00-0.32   sec  1015 KBytes  26.2 Mbits/sec    0    112 KBytes       
+Nov 19 00:03:26 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:03:26 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:03:26 [  5]   0.00-0.32   sec  1015 KBytes  26.2 Mbits/sec    0             sender
+Nov 19 00:03:26 [  5]   0.00-0.34   sec   460 KBytes  11.0 Mbits/sec                  receiver
+Nov 19 00:03:26 
+Nov 19 00:03:26 iperf Done.
+Nov 19 00:12:14 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:12:14 [  5] local 172.20.10.6 port 56148 connected to 130.162.211.209 port 5201
+Nov 19 00:12:14 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:12:14 [  5]   0.00-1.00   sec   126 KBytes  1.03 Mbits/sec    0   32.9 KBytes       
+Nov 19 00:12:14 [  5]   1.00-2.00   sec  69.8 KBytes   571 Kbits/sec    0   36.9 KBytes       
+Nov 19 00:12:14 [  5]   2.00-3.00   sec   126 KBytes  1.04 Mbits/sec    0   40.8 KBytes       
+Nov 19 00:12:14 [  5]   3.00-4.00   sec  60.6 KBytes   496 Kbits/sec    0   50.0 KBytes       
+Nov 19 00:12:14 [  5]   4.00-5.00   sec  90.8 KBytes   744 Kbits/sec    0   55.3 KBytes       
+Nov 19 00:12:14 [  5]   5.00-6.00   sec  90.8 KBytes   744 Kbits/sec    0   55.3 KBytes       
+Nov 19 00:12:14 [  5]   6.00-7.00   sec  90.8 KBytes   744 Kbits/sec    0   55.3 KBytes       
+Nov 19 00:12:14 [  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0   55.3 KBytes       
+Nov 19 00:12:14 [  5]   8.00-9.00   sec   167 KBytes  1.37 Mbits/sec    0   86.9 KBytes       
+Nov 19 00:12:14 [  5]   9.00-10.00  sec   126 KBytes  1.03 Mbits/sec    0    118 KBytes       
+Nov 19 00:12:14 [  5]  10.00-10.52  sec   190 KBytes  3.00 Mbits/sec    0    134 KBytes       
+Nov 19 00:12:14 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:12:14 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:12:14 [  5]   0.00-10.52  sec  1.11 MBytes   887 Kbits/sec    0             sender
+Nov 19 00:12:14 [  5]   0.00-11.61  sec   852 KBytes   601 Kbits/sec                  receiver
+Nov 19 00:12:14 
+Nov 19 00:12:14 iperf Done.
+Nov 19 00:12:31 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:12:31 [  5] local 172.20.10.6 port 36332 connected to 130.162.211.209 port 5201
+Nov 19 00:12:31 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:12:31 [  5]   0.00-1.00   sec   229 KBytes  1.88 Mbits/sec    0   38.2 KBytes       
+Nov 19 00:12:31 [  5]   1.00-2.00   sec   121 KBytes   992 Kbits/sec    0   44.8 KBytes       
+Nov 19 00:12:31 [  5]   2.00-3.00   sec   182 KBytes  1.49 Mbits/sec    0   52.7 KBytes       
+Nov 19 00:12:31 [  5]   3.00-4.00   sec   182 KBytes  1.49 Mbits/sec    0   57.9 KBytes       
+Nov 19 00:12:31 [  5]   4.00-5.00   sec   187 KBytes  1.53 Mbits/sec    0   68.5 KBytes       
+Nov 19 00:12:31 [  5]   5.00-5.29   sec   126 KBytes  3.54 Mbits/sec    0   81.6 KBytes       
+Nov 19 00:12:31 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:12:31 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:12:31 [  5]   0.00-5.29   sec  1.00 MBytes  1.59 Mbits/sec    0             sender
+Nov 19 00:12:31 [  5]   0.00-5.78   sec   836 KBytes  1.18 Mbits/sec                  receiver
+Nov 19 00:12:31 
+Nov 19 00:12:31 iperf Done.
+Nov 19 00:12:48 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:12:48 [  5] local 172.20.10.6 port 53962 connected to 130.162.211.209 port 5201
+Nov 19 00:12:48 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:12:48 [  5]   0.00-1.00   sec   163 KBytes  1.34 Mbits/sec    0   34.2 KBytes       
+Nov 19 00:12:48 [  5]   1.00-2.00   sec   130 KBytes  1.07 Mbits/sec    0   40.8 KBytes       
+Nov 19 00:12:48 [  5]   2.00-3.00   sec   182 KBytes  1.49 Mbits/sec    0   48.7 KBytes       
+Nov 19 00:12:48 [  5]   3.00-4.00   sec   151 KBytes  1.24 Mbits/sec    0   56.6 KBytes       
+Nov 19 00:12:48 [  5]   4.00-5.00   sec   182 KBytes  1.49 Mbits/sec    0   57.9 KBytes       
+Nov 19 00:12:48 [  5]   5.00-5.61   sec   182 KBytes  2.43 Mbits/sec    0   57.9 KBytes       
+Nov 19 00:12:48 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:12:48 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:12:48 [  5]   0.00-5.61   sec   990 KBytes  1.45 Mbits/sec    0             sender
+Nov 19 00:12:48 [  5]   0.00-5.92   sec   848 KBytes  1.17 Mbits/sec                  receiver
+Nov 19 00:12:48 
+Nov 19 00:12:48 iperf Done.
+Nov 19 00:13:06 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:13:06 [  5] local 172.20.10.6 port 42562 connected to 130.162.211.209 port 5201
+Nov 19 00:13:06 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:13:06 [  5]   0.00-1.00   sec   224 KBytes  1.83 Mbits/sec    0   38.2 KBytes       
+Nov 19 00:13:06 [  5]   1.00-2.00   sec   184 KBytes  1.51 Mbits/sec    0   46.1 KBytes       
+Nov 19 00:13:06 [  5]   2.00-3.00   sec   182 KBytes  1.49 Mbits/sec    0   54.0 KBytes       
+Nov 19 00:13:06 [  5]   3.00-4.00   sec   187 KBytes  1.53 Mbits/sec    0   60.6 KBytes       
+Nov 19 00:13:06 [  5]   4.00-5.00   sec   137 KBytes  1.12 Mbits/sec    0   75.0 KBytes       
+Nov 19 00:13:06 [  5]   5.00-5.72   sec   126 KBytes  1.44 Mbits/sec    0   96.1 KBytes       
+Nov 19 00:13:06 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:13:06 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:13:06 [  5]   0.00-5.72   sec  1.02 MBytes  1.49 Mbits/sec    0             sender
+Nov 19 00:13:06 [  5]   0.00-6.88   sec   839 KBytes   999 Kbits/sec                  receiver
+Nov 19 00:13:06 
+Nov 19 00:13:06 iperf Done.
+Nov 19 00:13:40 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:13:40 [  5] local 172.20.10.6 port 58434 connected to 130.162.211.209 port 5201
+Nov 19 00:13:40 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:13:40 [  5]   0.00-0.95   sec  1.09 MBytes  9.61 Mbits/sec    0    124 KBytes       
+Nov 19 00:13:40 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:13:40 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:13:40 [  5]   0.00-0.95   sec  1.09 MBytes  9.61 Mbits/sec    0             sender
+Nov 19 00:13:40 [  5]   0.00-1.06   sec   799 KBytes  6.20 Mbits/sec                  receiver
+Nov 19 00:13:40 
+Nov 19 00:13:40 iperf Done.
+Nov 19 00:13:52 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:13:52 [  5] local 172.20.10.6 port 57616 connected to 130.162.211.209 port 5201
+Nov 19 00:13:52 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:13:52 [  5]   0.00-0.92   sec  1.03 MBytes  9.38 Mbits/sec    0    100 KBytes       
+Nov 19 00:13:52 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:13:52 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:13:52 [  5]   0.00-0.92   sec  1.03 MBytes  9.38 Mbits/sec    0             sender
+Nov 19 00:13:52 [  5]   0.00-1.03   sec   823 KBytes  6.54 Mbits/sec                  receiver
+Nov 19 00:13:52 
+Nov 19 00:13:52 iperf Done.
+Nov 19 00:14:05 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:14:05 [  5] local 172.20.10.6 port 37172 connected to 130.162.211.209 port 5201
+Nov 19 00:14:05 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:14:05 [  5]   0.00-0.75   sec  1018 KBytes  11.2 Mbits/sec    0   85.6 KBytes       
+Nov 19 00:14:05 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:14:05 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:14:05 [  5]   0.00-0.75   sec  1018 KBytes  11.2 Mbits/sec    0             sender
+Nov 19 00:14:05 [  5]   0.00-0.79   sec   783 KBytes  8.10 Mbits/sec                  receiver
+Nov 19 00:14:05 
+Nov 19 00:14:05 iperf Done.
+Nov 19 00:14:16 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:14:16 [  5] local 172.20.10.6 port 53878 connected to 130.162.211.209 port 5201
+Nov 19 00:14:16 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:14:16 [  5]   0.00-0.58   sec  1.06 MBytes  15.3 Mbits/sec    0    120 KBytes       
+Nov 19 00:14:16 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:14:16 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:14:16 [  5]   0.00-0.58   sec  1.06 MBytes  15.3 Mbits/sec    0             sender
+Nov 19 00:14:16 [  5]   0.00-0.64   sec   767 KBytes  9.85 Mbits/sec                  receiver
+Nov 19 00:14:16 
+Nov 19 00:14:16 iperf Done.
+Nov 19 00:15:18 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:15:18 [  5] local 172.20.10.6 port 33492 connected to 130.162.211.209 port 5201
+Nov 19 00:15:18 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:15:18 [  5]   0.00-1.00   sec  68.5 KBytes   560 Kbits/sec    1   1.32 KBytes       
+Nov 19 00:15:18 [  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    1   14.5 KBytes       
+Nov 19 00:15:18 [  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   14.5 KBytes       
+Nov 19 00:15:18 [  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    1   1.32 KBytes       
+Nov 19 00:15:18 [  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    1   1.32 KBytes       
+Nov 19 00:15:18 [  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  10.00-11.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  11.00-12.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  12.00-13.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  13.00-14.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  14.00-15.00  sec  0.00 Bytes  0.00 bits/sec    1   1.32 KBytes       
+Nov 19 00:15:18 [  5]  15.00-16.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  16.00-17.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  17.00-18.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  18.00-19.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  19.00-20.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  20.00-21.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  21.00-22.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  22.00-23.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  23.00-24.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  24.00-25.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  25.00-26.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  26.00-27.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  27.00-28.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  28.00-29.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  29.00-30.00  sec  0.00 Bytes  0.00 bits/sec    1   1.32 KBytes       
+Nov 19 00:15:18 [  5]  30.00-31.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  31.00-32.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  32.00-33.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  33.00-34.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  34.00-35.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  35.00-36.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  36.00-37.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  37.00-38.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  38.00-39.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  39.00-40.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  40.00-41.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  41.00-42.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  42.00-43.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  43.00-44.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  44.00-45.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  45.00-46.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  46.00-47.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  47.00-48.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  48.00-49.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:15:18 [  5]  49.00-50.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  50.00-51.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  51.00-52.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  52.00-53.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  53.00-54.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  54.00-55.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  55.00-56.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  56.00-57.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  57.00-58.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  58.00-59.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  59.00-60.00  sec  0.00 Bytes  0.00 bits/sec    1   1.32 KBytes       
+Nov 19 00:16:11 [  5]  60.00-61.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  61.00-62.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  62.00-63.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  63.00-64.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  64.00-65.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  65.00-66.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  66.00-67.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  67.00-68.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  68.00-69.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  69.00-70.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  70.00-71.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  71.00-72.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  72.00-73.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  73.00-74.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  74.00-75.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  75.00-76.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  76.00-77.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  77.00-78.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  78.00-79.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  79.00-80.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  80.00-81.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  81.00-82.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  82.00-83.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  83.00-84.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  84.00-85.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  85.00-86.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  86.00-87.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  87.00-88.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  88.00-89.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  89.00-90.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  90.00-91.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  91.00-92.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  92.00-93.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  93.00-94.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  94.00-95.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  95.00-96.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  96.00-97.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  97.00-98.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  98.00-99.00  sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5]  99.00-100.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5] 100.00-101.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5] 101.00-102.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:16:11 [  5] 102.00-103.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 103.00-104.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 104.00-105.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 105.00-106.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 106.00-107.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 107.00-108.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 108.00-109.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 109.00-110.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 110.00-111.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 111.00-112.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 112.00-113.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 113.00-114.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 114.00-115.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 115.00-116.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 116.00-117.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 117.00-118.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 118.00-119.00 sec  0.00 Bytes  0.00 bits/sec    1   1.32 KBytes       
+Nov 19 00:17:05 [  5] 119.00-120.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 120.00-121.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 121.00-122.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 122.00-123.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 123.00-124.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 124.00-125.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 125.00-126.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 126.00-127.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 127.00-128.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 128.00-129.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 129.00-130.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 130.00-131.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 131.00-132.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 132.00-133.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 133.00-134.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 134.00-135.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 135.00-136.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 136.00-137.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 137.00-138.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 138.00-139.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 139.00-140.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 140.00-141.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 141.00-142.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 142.00-143.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 143.00-144.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 144.00-145.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 145.00-146.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 146.00-147.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 147.00-148.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 148.00-149.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 149.00-150.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 150.00-151.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 151.00-152.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 152.00-153.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 153.00-154.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 154.00-155.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 155.00-156.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:05 [  5] 156.00-157.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 157.00-158.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 158.00-159.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 159.00-160.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 160.00-161.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 161.00-162.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 162.00-163.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 163.00-164.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 164.00-165.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 165.00-166.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 166.00-167.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 167.00-168.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 168.00-169.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 169.00-170.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 170.00-171.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 171.00-172.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 172.00-173.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 173.00-174.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 174.00-175.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 175.00-176.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 176.00-177.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 177.00-178.00 sec  0.00 Bytes  0.00 bits/sec    0   1.32 KBytes       
+Nov 19 00:17:30 [  5] 178.00-179.00 sec  65.8 KBytes   539 Kbits/sec    0   34.2 KBytes       
+Nov 19 00:17:30 [  5] 179.00-180.00 sec   374 KBytes  3.06 Mbits/sec    1   46.1 KBytes       
+Nov 19 00:17:30 [  5] 180.00-181.00 sec   126 KBytes  1.04 Mbits/sec    1   6.58 KBytes       
+Nov 19 00:17:30 [  5] 181.00-182.00 sec   126 KBytes  1.04 Mbits/sec    0   43.4 KBytes       
+Nov 19 00:17:30 [  5] 182.00-182.35 sec   253 KBytes  6.00 Mbits/sec    0   46.1 KBytes       
+Nov 19 00:17:30 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:17:30 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:17:30 [  5]   0.00-182.35 sec  1014 KBytes  45.5 Kbits/sec   10             sender
+Nov 19 00:17:30 [  5]   0.00-182.47 sec   807 KBytes  36.2 Kbits/sec                  receiver
+Nov 19 00:17:30 
+Nov 19 00:17:30 iperf Done.
+Nov 19 00:17:41 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:17:41 [  5] local 172.20.10.6 port 38666 connected to 130.162.211.209 port 5201
+Nov 19 00:17:41 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:17:41 [  5]   0.00-0.50   sec  1.19 MBytes  19.9 Mbits/sec    0    168 KBytes       
+Nov 19 00:17:41 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:17:41 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:17:41 [  5]   0.00-0.50   sec  1.19 MBytes  19.9 Mbits/sec    0             sender
+Nov 19 00:17:41 [  5]   0.00-0.57   sec   798 KBytes  11.4 Mbits/sec                  receiver
+Nov 19 00:17:41 
+Nov 19 00:17:41 iperf Done.
+Nov 19 00:17:52 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:17:52 [  5] local 172.20.10.6 port 55062 connected to 130.162.211.209 port 5201
+Nov 19 00:17:52 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:17:52 [  5]   0.00-0.68   sec  1.02 MBytes  12.7 Mbits/sec    0    132 KBytes       
+Nov 19 00:17:52 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:17:52 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:17:52 [  5]   0.00-0.68   sec  1.02 MBytes  12.7 Mbits/sec    0             sender
+Nov 19 00:17:52 [  5]   0.00-0.75   sec   702 KBytes  7.63 Mbits/sec                  receiver
+Nov 19 00:17:52 
+Nov 19 00:17:52 iperf Done.
+Nov 19 00:18:03 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:18:03 [  5] local 172.20.10.6 port 60138 connected to 130.162.211.209 port 5201
+Nov 19 00:18:03 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:18:03 [  5]   0.00-0.54   sec  1.12 MBytes  17.3 Mbits/sec    0    113 KBytes       
+Nov 19 00:18:03 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:18:03 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:18:03 [  5]   0.00-0.54   sec  1.12 MBytes  17.3 Mbits/sec    0             sender
+Nov 19 00:18:03 [  5]   0.00-0.59   sec   835 KBytes  11.6 Mbits/sec                  receiver
+Nov 19 00:18:03 
+Nov 19 00:18:03 iperf Done.
+Nov 19 00:18:15 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:18:15 [  5] local 172.20.10.6 port 56878 connected to 130.162.211.209 port 5201
+Nov 19 00:18:15 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:18:15 [  5]   0.00-1.00   sec   661 KBytes  5.41 Mbits/sec    0   61.9 KBytes       
+Nov 19 00:18:15 [  5]   1.00-1.33   sec   338 KBytes  8.38 Mbits/sec    0   72.4 KBytes       
+Nov 19 00:18:15 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:18:15 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:18:15 [  5]   0.00-1.33   sec   999 KBytes  6.15 Mbits/sec    0             sender
+Nov 19 00:18:15 [  5]   0.00-1.57   sec   802 KBytes  4.19 Mbits/sec                  receiver
+Nov 19 00:18:15 
+Nov 19 00:18:15 iperf Done.
+Nov 19 00:18:29 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:18:29 [  5] local 172.20.10.6 port 59668 connected to 130.162.211.209 port 5201
+Nov 19 00:18:29 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:18:29 [  5]   0.00-1.00   sec   596 KBytes  4.88 Mbits/sec    0   71.1 KBytes       
+Nov 19 00:18:29 [  5]   1.00-2.00   sec   217 KBytes  1.78 Mbits/sec    1   71.1 KBytes       
+Nov 19 00:18:29 [  5]   2.00-2.88   sec   253 KBytes  2.35 Mbits/sec    0   61.9 KBytes       
+Nov 19 00:18:29 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:18:29 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:18:29 [  5]   0.00-2.88   sec  1.04 MBytes  3.03 Mbits/sec    1             sender
+Nov 19 00:18:29 [  5]   0.00-2.98   sec   823 KBytes  2.26 Mbits/sec                  receiver
+Nov 19 00:18:29 
+Nov 19 00:18:29 iperf Done.
+Nov 19 00:18:40 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:18:40 [  5] local 172.20.10.6 port 52294 connected to 130.162.211.209 port 5201
+Nov 19 00:18:40 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:18:40 [  5]   0.00-0.31   sec  1.02 MBytes  27.1 Mbits/sec    0    165 KBytes       
+Nov 19 00:18:40 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:18:40 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:18:40 [  5]   0.00-0.31   sec  1.02 MBytes  27.1 Mbits/sec    0             sender
+Nov 19 00:18:40 [  5]   0.00-0.39   sec   665 KBytes  14.0 Mbits/sec                  receiver
+Nov 19 00:18:40 
+Nov 19 00:18:40 iperf Done.
+Nov 19 00:18:51 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:18:51 [  5] local 172.20.10.6 port 45888 connected to 130.162.211.209 port 5201
+Nov 19 00:18:51 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:18:51 [  5]   0.00-0.72   sec   991 KBytes  11.3 Mbits/sec    0    128 KBytes       
+Nov 19 00:18:51 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:18:51 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:18:51 [  5]   0.00-0.72   sec   991 KBytes  11.3 Mbits/sec    0             sender
+Nov 19 00:18:51 [  5]   0.00-0.80   sec   617 KBytes  6.31 Mbits/sec                  receiver
+Nov 19 00:18:51 
+Nov 19 00:18:51 iperf Done.
+Nov 19 00:19:06 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:19:06 [  5] local 172.20.10.6 port 48596 connected to 130.162.211.209 port 5201
+Nov 19 00:19:06 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:19:06 [  5]   0.00-1.00   sec   141 KBytes  1.15 Mbits/sec    1   23.7 KBytes       
+Nov 19 00:19:06 [  5]   1.00-2.00   sec   192 KBytes  1.58 Mbits/sec    0   26.3 KBytes       
+Nov 19 00:19:06 [  5]   2.00-3.00   sec   623 KBytes  5.10 Mbits/sec    0   35.5 KBytes       
+Nov 19 00:19:06 [  5]   3.00-3.10   sec  92.1 KBytes  7.62 Mbits/sec    0   38.2 KBytes       
+Nov 19 00:19:06 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:19:06 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:19:06 [  5]   0.00-3.10   sec  1.02 MBytes  2.77 Mbits/sec    1             sender
+Nov 19 00:19:06 [  5]   0.00-3.25   sec   914 KBytes  2.30 Mbits/sec                  receiver
+Nov 19 00:19:06 
+Nov 19 00:19:06 iperf Done.
+Nov 19 00:19:17 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:19:17 [  5] local 172.20.10.6 port 41048 connected to 130.162.211.209 port 5201
+Nov 19 00:19:17 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:19:17 [  5]   0.00-0.59   sec  1.08 MBytes  15.3 Mbits/sec    0    137 KBytes       
+Nov 19 00:19:17 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:19:17 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:19:17 [  5]   0.00-0.59   sec  1.08 MBytes  15.3 Mbits/sec    0             sender
+Nov 19 00:19:17 [  5]   0.00-0.68   sec   769 KBytes  9.29 Mbits/sec                  receiver
+Nov 19 00:19:17 
+Nov 19 00:19:17 iperf Done.
+Nov 19 00:19:28 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:19:28 [  5] local 172.20.10.6 port 36260 connected to 130.162.211.209 port 5201
+Nov 19 00:19:28 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:19:28 [  5]   0.00-0.61   sec  1.08 MBytes  14.7 Mbits/sec    0    109 KBytes       
+Nov 19 00:19:28 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:19:28 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:19:28 [  5]   0.00-0.61   sec  1.08 MBytes  14.7 Mbits/sec    0             sender
+Nov 19 00:19:28 [  5]   0.00-0.70   sec   764 KBytes  8.89 Mbits/sec                  receiver
+Nov 19 00:19:28 
+Nov 19 00:19:28 iperf Done.
+Nov 19 00:19:41 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:19:41 [  5] local 172.20.10.6 port 52898 connected to 130.162.211.209 port 5201
+Nov 19 00:19:41 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:19:41 [  5]   0.00-1.00   sec   650 KBytes  5.33 Mbits/sec    0   56.6 KBytes       
+Nov 19 00:19:41 [  5]   1.00-2.00   sec   278 KBytes  2.27 Mbits/sec    0   59.2 KBytes       
+Nov 19 00:19:41 [  5]   2.00-2.39   sec   142 KBytes  3.00 Mbits/sec    0   63.2 KBytes       
+Nov 19 00:19:41 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:19:41 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:19:41 [  5]   0.00-2.39   sec  1.05 MBytes  3.67 Mbits/sec    0             sender
+Nov 19 00:19:41 [  5]   0.00-2.46   sec   878 KBytes  2.93 Mbits/sec                  receiver
+Nov 19 00:19:41 
+Nov 19 00:19:41 iperf Done.
+Nov 19 00:19:57 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:19:57 [  5] local 172.20.10.6 port 53754 connected to 130.162.211.209 port 5201
+Nov 19 00:19:57 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:19:57 [  5]   0.00-1.00   sec   330 KBytes  2.70 Mbits/sec    0   59.2 KBytes       
+Nov 19 00:19:57 [  5]   1.00-2.00   sec   182 KBytes  1.49 Mbits/sec    0   60.6 KBytes       
+Nov 19 00:19:57 [  5]   2.00-3.00   sec   236 KBytes  1.93 Mbits/sec    0   69.8 KBytes       
+Nov 19 00:19:57 [  5]   3.00-4.00   sec   140 KBytes  1.14 Mbits/sec    0   77.7 KBytes       
+Nov 19 00:19:57 [  5]   4.00-4.20   sec   129 KBytes  5.30 Mbits/sec    0   79.0 KBytes       
+Nov 19 00:19:57 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:19:57 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:19:57 [  5]   0.00-4.20   sec  1016 KBytes  1.98 Mbits/sec    0             sender
+Nov 19 00:19:57 [  5]   0.00-4.80   sec   825 KBytes  1.41 Mbits/sec                  receiver
+Nov 19 00:19:57 
+Nov 19 00:19:57 iperf Done.
+Nov 19 00:20:11 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:20:11 [  5] local 172.20.10.6 port 43788 connected to 130.162.211.209 port 5201
+Nov 19 00:20:11 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:20:11 [  5]   0.00-0.95   sec  1.03 MBytes  9.12 Mbits/sec    0   69.8 KBytes       
+Nov 19 00:20:11 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:20:11 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:20:11 [  5]   0.00-0.95   sec  1.03 MBytes  9.12 Mbits/sec    0             sender
+Nov 19 00:20:11 [  5]   0.00-1.01   sec   866 KBytes  7.02 Mbits/sec                  receiver
+Nov 19 00:20:11 
+Nov 19 00:20:11 iperf Done.
+Nov 19 00:20:25 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:20:25 [  5] local 172.20.10.6 port 51580 connected to 130.162.211.209 port 5201
+Nov 19 00:20:25 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:20:25 [  5]   0.00-1.00   sec   386 KBytes  3.16 Mbits/sec    0   50.0 KBytes       
+Nov 19 00:20:25 [  5]   1.00-2.00   sec  96.1 KBytes   787 Kbits/sec    0   56.6 KBytes       
+Nov 19 00:20:25 [  5]   2.00-3.00   sec   487 KBytes  3.99 Mbits/sec    0   77.7 KBytes       
+Nov 19 00:20:25 [  5]   3.00-3.16   sec   126 KBytes  6.33 Mbits/sec    0   79.0 KBytes       
+Nov 19 00:20:25 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:20:25 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:20:25 [  5]   0.00-3.16   sec  1.07 MBytes  2.84 Mbits/sec    0             sender
+Nov 19 00:20:25 [  5]   0.00-3.22   sec   848 KBytes  2.16 Mbits/sec                  receiver
+Nov 19 00:20:25 
+Nov 19 00:20:25 iperf Done.
+Nov 19 00:20:36 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:20:36 [  5] local 172.20.10.6 port 60330 connected to 130.162.211.209 port 5201
+Nov 19 00:20:36 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:20:36 [  5]   0.00-0.50   sec  1.03 MBytes  17.4 Mbits/sec    0    129 KBytes       
+Nov 19 00:20:36 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:20:36 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:20:36 [  5]   0.00-0.50   sec  1.03 MBytes  17.4 Mbits/sec    0             sender
+Nov 19 00:20:36 [  5]   0.00-0.55   sec   698 KBytes  10.5 Mbits/sec                  receiver
+Nov 19 00:20:36 
+Nov 19 00:20:36 iperf Done.
+Nov 19 00:20:48 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:20:48 [  5] local 172.20.10.6 port 51090 connected to 130.162.211.209 port 5201
+Nov 19 00:20:48 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:20:48 [  5]   0.00-0.60   sec  1.14 MBytes  16.0 Mbits/sec    0    109 KBytes       
+Nov 19 00:20:48 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:20:48 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:20:48 [  5]   0.00-0.60   sec  1.14 MBytes  16.0 Mbits/sec    0             sender
+Nov 19 00:20:48 [  5]   0.00-0.65   sec   837 KBytes  10.6 Mbits/sec                  receiver
+Nov 19 00:20:48 
+Nov 19 00:20:48 iperf Done.
+Nov 19 00:20:59 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:20:59 [  5] local 172.20.10.6 port 52244 connected to 130.162.211.209 port 5201
+Nov 19 00:20:59 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:20:59 [  5]   0.00-0.47   sec  1.06 MBytes  18.9 Mbits/sec    0    138 KBytes       
+Nov 19 00:20:59 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:20:59 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:20:59 [  5]   0.00-0.47   sec  1.06 MBytes  18.9 Mbits/sec    0             sender
+Nov 19 00:20:59 [  5]   0.00-0.51   sec   725 KBytes  11.6 Mbits/sec                  receiver
+Nov 19 00:20:59 
+Nov 19 00:20:59 iperf Done.
+Nov 19 00:21:11 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:21:11 [  5] local 172.20.10.6 port 43900 connected to 130.162.211.209 port 5201
+Nov 19 00:21:11 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:21:11 [  5]   0.00-0.57   sec  1.03 MBytes  15.3 Mbits/sec    0    132 KBytes       
+Nov 19 00:21:11 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:21:11 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:21:11 [  5]   0.00-0.57   sec  1.03 MBytes  15.3 Mbits/sec    0             sender
+Nov 19 00:21:11 [  5]   0.00-0.64   sec   727 KBytes  9.34 Mbits/sec                  receiver
+Nov 19 00:21:11 
+Nov 19 00:21:11 iperf Done.
+Nov 19 00:21:22 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:21:22 [  5] local 172.20.10.6 port 46876 connected to 130.162.211.209 port 5201
+Nov 19 00:21:22 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:21:22 [  5]   0.00-0.70   sec  1.07 MBytes  12.8 Mbits/sec    0   86.9 KBytes       
+Nov 19 00:21:22 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:21:22 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:21:22 [  5]   0.00-0.70   sec  1.07 MBytes  12.8 Mbits/sec    0             sender
+Nov 19 00:21:22 [  5]   0.00-0.76   sec   866 KBytes  9.37 Mbits/sec                  receiver
+Nov 19 00:21:22 
+Nov 19 00:21:22 iperf Done.
+Nov 19 00:21:34 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:21:34 [  5] local 172.20.10.6 port 39056 connected to 130.162.211.209 port 5201
+Nov 19 00:21:34 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:21:34 [  5]   0.00-0.92   sec  1.01 MBytes  9.18 Mbits/sec    0   73.7 KBytes       
+Nov 19 00:21:34 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:21:34 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:21:34 [  5]   0.00-0.92   sec  1.01 MBytes  9.18 Mbits/sec    0             sender
+Nov 19 00:21:34 [  5]   0.00-1.01   sec   840 KBytes  6.78 Mbits/sec                  receiver
+Nov 19 00:21:34 
+Nov 19 00:21:34 iperf Done.
+Nov 19 00:21:45 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:21:45 [  5] local 172.20.10.6 port 50748 connected to 130.162.211.209 port 5201
+Nov 19 00:21:45 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:21:45 [  5]   0.00-0.51   sec  1003 KBytes  16.2 Mbits/sec    0    125 KBytes       
+Nov 19 00:21:45 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:21:45 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:21:45 [  5]   0.00-0.51   sec  1003 KBytes  16.2 Mbits/sec    0             sender
+Nov 19 00:21:45 [  5]   0.00-0.57   sec   649 KBytes  9.26 Mbits/sec                  receiver
+Nov 19 00:21:45 
+Nov 19 00:21:45 iperf Done.
+Nov 19 00:21:56 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:21:56 [  5] local 172.20.10.6 port 58362 connected to 130.162.211.209 port 5201
+Nov 19 00:21:56 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:21:56 [  5]   0.00-0.59   sec  1.09 MBytes  15.4 Mbits/sec    0    130 KBytes       
+Nov 19 00:21:56 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:21:56 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:21:56 [  5]   0.00-0.59   sec  1.09 MBytes  15.4 Mbits/sec    0             sender
+Nov 19 00:21:56 [  5]   0.00-0.64   sec   764 KBytes  9.82 Mbits/sec                  receiver
+Nov 19 00:21:56 
+Nov 19 00:21:56 iperf Done.
+Nov 19 00:22:07 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:22:07 [  5] local 172.20.10.6 port 60160 connected to 130.162.211.209 port 5201
+Nov 19 00:22:07 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:22:07 [  5]   0.00-0.58   sec  1.14 MBytes  16.4 Mbits/sec    0    109 KBytes       
+Nov 19 00:22:07 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:22:07 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:22:07 [  5]   0.00-0.58   sec  1.14 MBytes  16.4 Mbits/sec    0             sender
+Nov 19 00:22:07 [  5]   0.00-0.66   sec   861 KBytes  10.7 Mbits/sec                  receiver
+Nov 19 00:22:07 
+Nov 19 00:22:07 iperf Done.
+Nov 19 00:22:18 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:22:18 [  5] local 172.20.10.6 port 37800 connected to 130.162.211.209 port 5201
+Nov 19 00:22:18 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:22:18 [  5]   0.00-0.35   sec   981 KBytes  23.0 Mbits/sec    0    161 KBytes       
+Nov 19 00:22:18 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:22:18 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:22:18 [  5]   0.00-0.35   sec   981 KBytes  23.0 Mbits/sec    0             sender
+Nov 19 00:22:18 [  5]   0.00-0.42   sec   617 KBytes  12.0 Mbits/sec                  receiver
+Nov 19 00:22:18 
+Nov 19 00:22:18 iperf Done.
+Nov 19 00:22:31 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:22:31 [  5] local 172.20.10.6 port 42406 connected to 130.162.211.209 port 5201
+Nov 19 00:22:31 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:22:31 [  5]   0.00-1.00   sec   441 KBytes  3.61 Mbits/sec    0    113 KBytes       
+Nov 19 00:22:31 [  5]   1.00-1.16   sec   538 KBytes  28.1 Mbits/sec    0    163 KBytes       
+Nov 19 00:22:31 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:22:31 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:22:31 [  5]   0.00-1.16   sec   979 KBytes  6.93 Mbits/sec    0             sender
+Nov 19 00:22:31 [  5]   0.00-1.31   sec   537 KBytes  3.36 Mbits/sec                  receiver
+Nov 19 00:22:31 
+Nov 19 00:22:31 iperf Done.
+Nov 19 00:22:42 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:22:42 [  5] local 172.20.10.6 port 44032 connected to 130.162.211.209 port 5201
+Nov 19 00:22:42 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:22:42 [  5]   0.00-0.28   sec   994 KBytes  28.9 Mbits/sec    0    221 KBytes       
+Nov 19 00:22:42 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:22:42 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:22:42 [  5]   0.00-0.28   sec   994 KBytes  28.9 Mbits/sec    0             sender
+Nov 19 00:22:42 [  5]   0.00-0.34   sec   423 KBytes  10.2 Mbits/sec                  receiver
+Nov 19 00:22:42 
+Nov 19 00:22:42 iperf Done.
+Nov 19 00:22:53 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:22:53 [  5] local 172.20.10.6 port 42806 connected to 130.162.211.209 port 5201
+Nov 19 00:22:53 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:22:53 [  5]   0.00-0.70   sec  1.05 MBytes  12.5 Mbits/sec    0   86.9 KBytes       
+Nov 19 00:22:53 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:22:53 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:22:53 [  5]   0.00-0.70   sec  1.05 MBytes  12.5 Mbits/sec    0             sender
+Nov 19 00:22:53 [  5]   0.00-0.77   sec   860 KBytes  9.11 Mbits/sec                  receiver
+Nov 19 00:22:53 
+Nov 19 00:22:53 iperf Done.
+Nov 19 00:23:04 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:23:04 [  5] local 172.20.10.6 port 59806 connected to 130.162.211.209 port 5201
+Nov 19 00:23:04 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:23:04 [  5]   0.00-0.55   sec  1.12 MBytes  17.1 Mbits/sec    0    130 KBytes       
+Nov 19 00:23:04 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:23:04 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:23:04 [  5]   0.00-0.55   sec  1.12 MBytes  17.1 Mbits/sec    0             sender
+Nov 19 00:23:04 [  5]   0.00-0.61   sec   802 KBytes  10.8 Mbits/sec                  receiver
+Nov 19 00:23:04 
+Nov 19 00:23:04 iperf Done.
+Nov 19 00:23:15 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:23:15 [  5] local 172.20.10.6 port 40966 connected to 130.162.211.209 port 5201
+Nov 19 00:23:15 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:23:15 [  5]   0.00-0.61   sec  1.00 MBytes  13.8 Mbits/sec    0    101 KBytes       
+Nov 19 00:23:15 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:23:15 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:23:15 [  5]   0.00-0.61   sec  1.00 MBytes  13.8 Mbits/sec    0             sender
+Nov 19 00:23:15 [  5]   0.00-0.66   sec   716 KBytes  8.91 Mbits/sec                  receiver
+Nov 19 00:23:15 
+Nov 19 00:23:15 iperf Done.
+Nov 19 00:23:27 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:23:27 [  5] local 172.20.10.6 port 38878 connected to 130.162.211.209 port 5201
+Nov 19 00:23:27 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:23:27 [  5]   0.00-0.77   sec  1.02 MBytes  11.2 Mbits/sec    0   86.9 KBytes       
+Nov 19 00:23:27 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:23:27 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:23:27 [  5]   0.00-0.77   sec  1.02 MBytes  11.2 Mbits/sec    0             sender
+Nov 19 00:23:27 [  5]   0.00-0.81   sec   819 KBytes  8.25 Mbits/sec                  receiver
+Nov 19 00:23:27 
+Nov 19 00:23:27 iperf Done.
+Nov 19 00:23:38 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:23:38 [  5] local 172.20.10.6 port 35796 connected to 130.162.211.209 port 5201
+Nov 19 00:23:38 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:23:38 [  5]   0.00-0.43   sec  1002 KBytes  19.3 Mbits/sec    0    129 KBytes       
+Nov 19 00:23:38 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:23:38 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:23:38 [  5]   0.00-0.43   sec  1002 KBytes  19.3 Mbits/sec    0             sender
+Nov 19 00:23:38 [  5]   0.00-0.47   sec   681 KBytes  11.8 Mbits/sec                  receiver
+Nov 19 00:23:38 
+Nov 19 00:23:38 iperf Done.
+Nov 19 00:23:49 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:23:49 [  5] local 172.20.10.6 port 42644 connected to 130.162.211.209 port 5201
+Nov 19 00:23:49 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:23:49 [  5]   0.00-0.64   sec  1016 KBytes  13.1 Mbits/sec    0    124 KBytes       
+Nov 19 00:23:49 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:23:49 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:23:49 [  5]   0.00-0.64   sec  1016 KBytes  13.1 Mbits/sec    0             sender
+Nov 19 00:23:49 [  5]   0.00-0.70   sec   686 KBytes  8.02 Mbits/sec                  receiver
+Nov 19 00:23:49 
+Nov 19 00:23:49 iperf Done.
+Nov 19 00:24:00 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:24:00 [  5] local 172.20.10.6 port 44328 connected to 130.162.211.209 port 5201
+Nov 19 00:24:00 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:24:00 [  5]   0.00-0.81   sec  1.07 MBytes  11.0 Mbits/sec    0   98.7 KBytes       
+Nov 19 00:24:00 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:24:00 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:24:00 [  5]   0.00-0.81   sec  1.07 MBytes  11.0 Mbits/sec    0             sender
+Nov 19 00:24:00 [  5]   0.00-0.87   sec   812 KBytes  7.64 Mbits/sec                  receiver
+Nov 19 00:24:00 
+Nov 19 00:24:00 iperf Done.
+Nov 19 00:24:11 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:24:11 [  5] local 172.20.10.6 port 56200 connected to 130.162.211.209 port 5201
+Nov 19 00:24:11 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:24:11 [  5]   0.00-0.54   sec  1.01 MBytes  15.8 Mbits/sec    0    101 KBytes       
+Nov 19 00:24:11 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:24:11 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:24:11 [  5]   0.00-0.54   sec  1.01 MBytes  15.8 Mbits/sec    0             sender
+Nov 19 00:24:11 [  5]   0.00-0.59   sec   756 KBytes  10.4 Mbits/sec                  receiver
+Nov 19 00:24:11 
+Nov 19 00:24:11 iperf Done.
+Nov 19 00:24:22 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:24:22 [  5] local 172.20.10.6 port 55026 connected to 130.162.211.209 port 5201
+Nov 19 00:24:22 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:24:22 [  5]   0.00-0.50   sec  1.02 MBytes  17.2 Mbits/sec    0    132 KBytes       
+Nov 19 00:24:22 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:24:22 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:24:22 [  5]   0.00-0.50   sec  1.02 MBytes  17.2 Mbits/sec    0             sender
+Nov 19 00:24:22 [  5]   0.00-0.56   sec   692 KBytes  10.1 Mbits/sec                  receiver
+Nov 19 00:24:22 
+Nov 19 00:24:22 iperf Done.
+Nov 19 00:24:33 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:24:33 [  5] local 172.20.10.6 port 52554 connected to 130.162.211.209 port 5201
+Nov 19 00:24:33 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:24:33 [  5]   0.00-0.56   sec  1.10 MBytes  16.6 Mbits/sec    0    107 KBytes       
+Nov 19 00:24:33 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:24:33 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:24:33 [  5]   0.00-0.56   sec  1.10 MBytes  16.6 Mbits/sec    0             sender
+Nov 19 00:24:33 [  5]   0.00-0.63   sec   810 KBytes  10.6 Mbits/sec                  receiver
+Nov 19 00:24:33 
+Nov 19 00:24:33 iperf Done.
+Nov 19 00:24:45 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:24:45 [  5] local 172.20.10.6 port 50710 connected to 130.162.211.209 port 5201
+Nov 19 00:24:45 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:24:45 [  5]   0.00-0.61   sec  1.08 MBytes  14.8 Mbits/sec    0    124 KBytes       
+Nov 19 00:24:45 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:24:45 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:24:45 [  5]   0.00-0.61   sec  1.08 MBytes  14.8 Mbits/sec    0             sender
+Nov 19 00:24:45 [  5]   0.00-0.67   sec   775 KBytes  9.44 Mbits/sec                  receiver
+Nov 19 00:24:45 
+Nov 19 00:24:45 iperf Done.
+Nov 19 00:24:56 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:24:56 [  5] local 172.20.10.6 port 52124 connected to 130.162.211.209 port 5201
+Nov 19 00:24:56 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:24:56 [  5]   0.00-0.76   sec  1.01 MBytes  11.2 Mbits/sec    0   97.4 KBytes       
+Nov 19 00:24:56 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:24:56 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:24:56 [  5]   0.00-0.76   sec  1.01 MBytes  11.2 Mbits/sec    0             sender
+Nov 19 00:24:56 [  5]   0.00-0.82   sec   798 KBytes  7.93 Mbits/sec                  receiver
+Nov 19 00:24:56 
+Nov 19 00:24:56 iperf Done.
+Nov 19 00:25:07 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:25:07 [  5] local 172.20.10.6 port 53624 connected to 130.162.211.209 port 5201
+Nov 19 00:25:07 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:25:07 [  5]   0.00-0.47   sec  1.03 MBytes  18.5 Mbits/sec    0    130 KBytes       
+Nov 19 00:25:07 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:25:07 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:25:07 [  5]   0.00-0.47   sec  1.03 MBytes  18.5 Mbits/sec    0             sender
+Nov 19 00:25:07 [  5]   0.00-0.53   sec   729 KBytes  11.3 Mbits/sec                  receiver
+Nov 19 00:25:07 
+Nov 19 00:25:07 iperf Done.
+Nov 19 00:25:18 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:25:18 [  5] local 172.20.10.6 port 42302 connected to 130.162.211.209 port 5201
+Nov 19 00:25:18 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:25:18 [  5]   0.00-0.51   sec  1.06 MBytes  17.6 Mbits/sec    0    133 KBytes       
+Nov 19 00:25:18 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:25:18 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:25:18 [  5]   0.00-0.51   sec  1.06 MBytes  17.6 Mbits/sec    0             sender
+Nov 19 00:25:18 [  5]   0.00-0.57   sec   727 KBytes  10.5 Mbits/sec                  receiver
+Nov 19 00:25:18 
+Nov 19 00:25:18 iperf Done.
+Nov 19 00:25:30 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:25:30 [  5] local 172.20.10.6 port 51302 connected to 130.162.211.209 port 5201
+Nov 19 00:25:30 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:25:30 [  5]   0.00-1.00   sec   758 KBytes  6.21 Mbits/sec    1    122 KBytes       
+Nov 19 00:25:30 [  5]   1.00-1.42   sec   379 KBytes  7.41 Mbits/sec    0    137 KBytes       
+Nov 19 00:25:30 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:25:30 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:25:30 [  5]   0.00-1.42   sec  1.11 MBytes  6.56 Mbits/sec    1             sender
+Nov 19 00:25:30 [  5]   0.00-1.47   sec   820 KBytes  4.56 Mbits/sec                  receiver
+Nov 19 00:25:30 
+Nov 19 00:25:30 iperf Done.
+Nov 19 00:25:43 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:25:43 [  5] local 172.20.10.6 port 47566 connected to 130.162.211.209 port 5201
+Nov 19 00:25:43 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:25:43 [  5]   0.00-1.00   sec   554 KBytes  4.54 Mbits/sec    0   55.3 KBytes       
+Nov 19 00:25:43 [  5]   1.00-1.99   sec   546 KBytes  4.54 Mbits/sec    0   75.0 KBytes       
+Nov 19 00:25:43 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:25:43 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:25:43 [  5]   0.00-1.99   sec  1.07 MBytes  4.54 Mbits/sec    0             sender
+Nov 19 00:25:43 [  5]   0.00-2.11   sec   898 KBytes  3.48 Mbits/sec                  receiver
+Nov 19 00:25:43 
+Nov 19 00:25:43 iperf Done.
+Nov 19 00:25:54 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:25:54 [  5] local 172.20.10.6 port 56368 connected to 130.162.211.209 port 5201
+Nov 19 00:25:54 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:25:54 [  5]   0.00-0.45   sec   998 KBytes  18.2 Mbits/sec    0    143 KBytes       
+Nov 19 00:25:54 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:25:54 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:25:54 [  5]   0.00-0.45   sec   998 KBytes  18.2 Mbits/sec    0             sender
+Nov 19 00:25:54 [  5]   0.00-0.49   sec   644 KBytes  10.8 Mbits/sec                  receiver
+Nov 19 00:25:54 
+Nov 19 00:25:54 iperf Done.
+Nov 19 00:26:05 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:26:05 [  5] local 172.20.10.6 port 34026 connected to 130.162.211.209 port 5201
+Nov 19 00:26:05 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:26:05 [  5]   0.00-0.38   sec  1019 KBytes  22.2 Mbits/sec    0    137 KBytes       
+Nov 19 00:26:05 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:26:05 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:26:05 [  5]   0.00-0.38   sec  1019 KBytes  22.2 Mbits/sec    0             sender
+Nov 19 00:26:05 [  5]   0.00-0.44   sec   692 KBytes  12.9 Mbits/sec                  receiver
+Nov 19 00:26:05 
+Nov 19 00:26:05 iperf Done.
+Nov 19 00:26:16 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:26:16 [  5] local 172.20.10.6 port 35490 connected to 130.162.211.209 port 5201
+Nov 19 00:26:16 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:26:16 [  5]   0.00-0.47   sec  1.04 MBytes  18.5 Mbits/sec    0    132 KBytes       
+Nov 19 00:26:16 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:26:16 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:26:16 [  5]   0.00-0.47   sec  1.04 MBytes  18.5 Mbits/sec    0             sender
+Nov 19 00:26:16 [  5]   0.00-0.54   sec   742 KBytes  11.2 Mbits/sec                  receiver
+Nov 19 00:26:16 
+Nov 19 00:26:16 iperf Done.
+Nov 19 00:26:27 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:26:27 [  5] local 172.20.10.6 port 57384 connected to 130.162.211.209 port 5201
+Nov 19 00:26:27 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:26:27 [  5]   0.00-0.55   sec  1010 KBytes  15.1 Mbits/sec    0    103 KBytes       
+Nov 19 00:26:27 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:26:27 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:26:27 [  5]   0.00-0.55   sec  1010 KBytes  15.1 Mbits/sec    0             sender
+Nov 19 00:26:27 [  5]   0.00-0.61   sec   703 KBytes  9.52 Mbits/sec                  receiver
+Nov 19 00:26:27 
+Nov 19 00:26:27 iperf Done.
+Nov 19 00:26:38 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:26:38 [  5] local 172.20.10.6 port 59716 connected to 130.162.211.209 port 5201
+Nov 19 00:26:38 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:26:38 [  5]   0.00-0.48   sec  1.16 MBytes  20.4 Mbits/sec    0    170 KBytes       
+Nov 19 00:26:38 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:26:38 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:26:38 [  5]   0.00-0.48   sec  1.16 MBytes  20.4 Mbits/sec    0             sender
+Nov 19 00:26:38 [  5]   0.00-0.56   sec   741 KBytes  10.8 Mbits/sec                  receiver
+Nov 19 00:26:38 
+Nov 19 00:26:38 iperf Done.
+Nov 19 00:26:50 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:26:50 [  5] local 172.20.10.6 port 44604 connected to 130.162.211.209 port 5201
+Nov 19 00:26:50 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:26:50 [  5]   0.00-0.71   sec  1.14 MBytes  13.4 Mbits/sec    0    105 KBytes       
+Nov 19 00:26:50 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:26:50 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:26:50 [  5]   0.00-0.71   sec  1.14 MBytes  13.4 Mbits/sec    0             sender
+Nov 19 00:26:50 [  5]   0.00-0.78   sec   862 KBytes  9.08 Mbits/sec                  receiver
+Nov 19 00:26:50 
+Nov 19 00:26:50 iperf Done.
+Nov 19 00:27:01 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:27:01 [  5] local 172.20.10.6 port 46530 connected to 130.162.211.209 port 5201
+Nov 19 00:27:01 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:27:01 [  5]   0.00-0.70   sec   977 KBytes  11.4 Mbits/sec    0   88.2 KBytes       
+Nov 19 00:27:01 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:27:01 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:27:01 [  5]   0.00-0.70   sec   977 KBytes  11.4 Mbits/sec    0             sender
+Nov 19 00:27:01 [  5]   0.00-0.77   sec   742 KBytes  7.94 Mbits/sec                  receiver
+Nov 19 00:27:01 
+Nov 19 00:27:01 iperf Done.
+Nov 19 00:27:12 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:27:12 [  5] local 172.20.10.6 port 47566 connected to 130.162.211.209 port 5201
+Nov 19 00:27:12 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:27:12 [  5]   0.00-0.48   sec  1.00 MBytes  17.4 Mbits/sec    0    111 KBytes       
+Nov 19 00:27:12 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:27:12 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:27:12 [  5]   0.00-0.48   sec  1.00 MBytes  17.4 Mbits/sec    0             sender
+Nov 19 00:27:12 [  5]   0.00-0.55   sec   792 KBytes  11.8 Mbits/sec                  receiver
+Nov 19 00:27:12 
+Nov 19 00:27:12 iperf Done.
+Nov 19 00:27:23 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:27:23 [  5] local 172.20.10.6 port 47302 connected to 130.162.211.209 port 5201
+Nov 19 00:27:23 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:27:23 [  5]   0.00-0.56   sec  1.05 MBytes  15.9 Mbits/sec    0    130 KBytes       
+Nov 19 00:27:23 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:27:23 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:27:23 [  5]   0.00-0.56   sec  1.05 MBytes  15.9 Mbits/sec    0             sender
+Nov 19 00:27:23 [  5]   0.00-0.61   sec   750 KBytes  10.0 Mbits/sec                  receiver
+Nov 19 00:27:23 
+Nov 19 00:27:23 iperf Done.
+Nov 19 00:27:34 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:27:34 [  5] local 172.20.10.6 port 57070 connected to 130.162.211.209 port 5201
+Nov 19 00:27:34 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:27:34 [  5]   0.00-0.85   sec  1022 KBytes  9.83 Mbits/sec    0   75.0 KBytes       
+Nov 19 00:27:34 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:27:34 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:27:34 [  5]   0.00-0.85   sec  1022 KBytes  9.83 Mbits/sec    0             sender
+Nov 19 00:27:34 [  5]   0.00-0.91   sec   833 KBytes  7.47 Mbits/sec                  receiver
+Nov 19 00:27:34 
+Nov 19 00:27:34 iperf Done.
+Nov 19 00:27:45 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:27:45 [  5] local 172.20.10.6 port 35232 connected to 130.162.211.209 port 5201
+Nov 19 00:27:45 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:27:45 [  5]   0.00-0.48   sec   994 KBytes  17.0 Mbits/sec    0    108 KBytes       
+Nov 19 00:27:45 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:27:45 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:27:45 [  5]   0.00-0.48   sec   994 KBytes  17.0 Mbits/sec    0             sender
+Nov 19 00:27:45 [  5]   0.00-0.55   sec   678 KBytes  10.2 Mbits/sec                  receiver
+Nov 19 00:27:45 
+Nov 19 00:27:45 iperf Done.
+Nov 19 00:27:57 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:27:57 [  5] local 172.20.10.6 port 47338 connected to 130.162.211.209 port 5201
+Nov 19 00:27:57 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:27:57 [  5]   0.00-1.00   sec   846 KBytes  6.93 Mbits/sec    0   71.1 KBytes       
+Nov 19 00:27:57 [  5]   1.00-1.15   sec   253 KBytes  14.0 Mbits/sec    0   77.7 KBytes       
+Nov 19 00:27:57 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:27:57 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:27:57 [  5]   0.00-1.15   sec  1.07 MBytes  7.85 Mbits/sec    0             sender
+Nov 19 00:27:57 [  5]   0.00-1.22   sec   898 KBytes  6.01 Mbits/sec                  receiver
+Nov 19 00:27:57 
+Nov 19 00:27:57 iperf Done.
+Nov 19 00:28:08 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:28:08 [  5] local 172.20.10.6 port 58386 connected to 130.162.211.209 port 5201
+Nov 19 00:28:08 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:28:08 [  5]   0.00-0.42   sec  1.10 MBytes  22.1 Mbits/sec    0    195 KBytes       
+Nov 19 00:28:08 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:28:08 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:28:08 [  5]   0.00-0.42   sec  1.10 MBytes  22.1 Mbits/sec    0             sender
+Nov 19 00:28:08 [  5]   0.00-0.47   sec   650 KBytes  11.4 Mbits/sec                  receiver
+Nov 19 00:28:08 
+Nov 19 00:28:08 iperf Done.
+Nov 19 00:28:19 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:28:19 [  5] local 172.20.10.6 port 55316 connected to 130.162.211.209 port 5201
+Nov 19 00:28:19 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:28:19 [  5]   0.00-0.53   sec  1002 KBytes  15.5 Mbits/sec    0    104 KBytes       
+Nov 19 00:28:19 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:28:19 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:28:19 [  5]   0.00-0.53   sec  1002 KBytes  15.5 Mbits/sec    0             sender
+Nov 19 00:28:19 [  5]   0.00-0.59   sec   779 KBytes  10.8 Mbits/sec                  receiver
+Nov 19 00:28:19 
+Nov 19 00:28:19 iperf Done.
+Nov 19 00:28:33 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:28:33 [  5] local 172.20.10.6 port 57242 connected to 130.162.211.209 port 5201
+Nov 19 00:28:33 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:28:33 [  5]   0.00-0.26   sec  1.32 MBytes  42.0 Mbits/sec    0    313 KBytes       
+Nov 19 00:28:33 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:28:33 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:28:33 [  5]   0.00-0.26   sec  1.32 MBytes  42.0 Mbits/sec    0             sender
+Nov 19 00:28:33 [  5]   0.00-0.33   sec   608 KBytes  14.9 Mbits/sec                  receiver
+Nov 19 00:28:33 
+Nov 19 00:28:33 iperf Done.
+Nov 19 00:28:44 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:28:44 [  5] local 172.20.10.6 port 35338 connected to 130.162.211.209 port 5201
+Nov 19 00:28:44 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:28:44 [  5]   0.00-0.62   sec  1.03 MBytes  13.9 Mbits/sec    0    100 KBytes       
+Nov 19 00:28:44 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:28:44 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:28:44 [  5]   0.00-0.62   sec  1.03 MBytes  13.9 Mbits/sec    0             sender
+Nov 19 00:28:44 [  5]   0.00-0.68   sec   785 KBytes  9.48 Mbits/sec                  receiver
+Nov 19 00:28:44 
+Nov 19 00:28:44 iperf Done.
+Nov 19 00:28:55 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:28:55 [  5] local 172.20.10.6 port 48164 connected to 130.162.211.209 port 5201
+Nov 19 00:28:55 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:28:55 [  5]   0.00-0.54   sec  1.13 MBytes  17.6 Mbits/sec    0    112 KBytes       
+Nov 19 00:28:55 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:28:55 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:28:55 [  5]   0.00-0.54   sec  1.13 MBytes  17.6 Mbits/sec    0             sender
+Nov 19 00:28:55 [  5]   0.00-0.61   sec   848 KBytes  11.3 Mbits/sec                  receiver
+Nov 19 00:28:55 
+Nov 19 00:28:55 iperf Done.
+Nov 19 00:29:07 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:29:07 [  5] local 172.20.10.6 port 48402 connected to 130.162.211.209 port 5201
+Nov 19 00:29:07 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:29:07 [  5]   0.00-0.61   sec  1.07 MBytes  14.8 Mbits/sec    0    107 KBytes       
+Nov 19 00:29:07 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:29:07 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:29:07 [  5]   0.00-0.61   sec  1.07 MBytes  14.8 Mbits/sec    0             sender
+Nov 19 00:29:07 [  5]   0.00-0.65   sec   828 KBytes  10.4 Mbits/sec                  receiver
+Nov 19 00:29:07 
+Nov 19 00:29:07 iperf Done.
+Nov 19 00:29:18 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:29:18 [  5] local 172.20.10.6 port 56624 connected to 130.162.211.209 port 5201
+Nov 19 00:29:18 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:29:18 [  5]   0.00-0.47   sec  1.02 MBytes  18.1 Mbits/sec    0    104 KBytes       
+Nov 19 00:29:18 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:29:18 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:29:18 [  5]   0.00-0.47   sec  1.02 MBytes  18.1 Mbits/sec    0             sender
+Nov 19 00:29:18 [  5]   0.00-0.53   sec   673 KBytes  10.4 Mbits/sec                  receiver
+Nov 19 00:29:18 
+Nov 19 00:29:18 iperf Done.
+Nov 19 00:29:29 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:29:29 [  5] local 172.20.10.6 port 46156 connected to 130.162.211.209 port 5201
+Nov 19 00:29:29 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:29:29 [  5]   0.00-0.37   sec  1.10 MBytes  24.8 Mbits/sec    0    197 KBytes       
+Nov 19 00:29:29 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:29:29 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:29:29 [  5]   0.00-0.37   sec  1.10 MBytes  24.8 Mbits/sec    0             sender
+Nov 19 00:29:29 [  5]   0.00-0.43   sec   640 KBytes  12.1 Mbits/sec                  receiver
+Nov 19 00:29:29 
+Nov 19 00:29:29 iperf Done.
+Nov 19 00:29:44 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:29:44 [  5] local 172.20.10.6 port 60410 connected to 130.162.211.209 port 5201
+Nov 19 00:29:44 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:29:44 [  5]   0.00-1.00   sec   129 KBytes  1.06 Mbits/sec    0   31.6 KBytes       
+Nov 19 00:29:44 [  5]   1.00-2.00   sec  60.6 KBytes   496 Kbits/sec    0   34.2 KBytes       
+Nov 19 00:29:44 [  5]   2.00-3.00   sec   291 KBytes  2.38 Mbits/sec    0   44.8 KBytes       
+Nov 19 00:29:44 [  5]   3.00-4.00   sec   141 KBytes  1.15 Mbits/sec    0   51.3 KBytes       
+Nov 19 00:29:44 [  5]   4.00-4.88   sec   379 KBytes  3.52 Mbits/sec    0   77.7 KBytes       
+Nov 19 00:29:44 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:29:44 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:29:44 [  5]   0.00-4.88   sec  1000 KBytes  1.68 Mbits/sec    0             sender
+Nov 19 00:29:44 [  5]   0.00-4.93   sec   731 KBytes  1.21 Mbits/sec                  receiver
+Nov 19 00:29:44 
+Nov 19 00:29:44 iperf Done.
+Nov 19 00:29:55 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:29:55 [  5] local 172.20.10.6 port 39902 connected to 130.162.211.209 port 5201
+Nov 19 00:29:55 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:29:55 [  5]   0.00-0.62   sec  1.13 MBytes  15.2 Mbits/sec    0    133 KBytes       
+Nov 19 00:29:55 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:29:55 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:29:55 [  5]   0.00-0.62   sec  1.13 MBytes  15.2 Mbits/sec    0             sender
+Nov 19 00:29:55 [  5]   0.00-0.73   sec   783 KBytes  8.85 Mbits/sec                  receiver
+Nov 19 00:29:55 
+Nov 19 00:29:55 iperf Done.
+Nov 19 00:30:07 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:30:07 [  5] local 172.20.10.6 port 35146 connected to 130.162.211.209 port 5201
+Nov 19 00:30:07 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:30:07 [  5]   0.00-1.00   sec   769 KBytes  6.30 Mbits/sec    0    107 KBytes       
+Nov 19 00:30:07 [  5]   1.00-1.16   sec   316 KBytes  15.8 Mbits/sec    0    113 KBytes       
+Nov 19 00:30:07 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:30:07 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:30:07 [  5]   0.00-1.16   sec  1.06 MBytes  7.63 Mbits/sec    0             sender
+Nov 19 00:30:07 [  5]   0.00-1.45   sec   771 KBytes  4.36 Mbits/sec                  receiver
+Nov 19 00:30:07 
+Nov 19 00:30:07 iperf Done.
+Nov 19 00:30:20 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:30:20 [  5] local 172.20.10.6 port 41186 connected to 130.162.211.209 port 5201
+Nov 19 00:30:20 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:30:20 [  5]   0.00-1.00   sec   661 KBytes  5.41 Mbits/sec    0   75.0 KBytes       
+Nov 19 00:30:20 [  5]   1.00-1.78   sec   382 KBytes  4.02 Mbits/sec    0   88.2 KBytes       
+Nov 19 00:30:20 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:30:20 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:30:20 [  5]   0.00-1.78   sec  1.02 MBytes  4.80 Mbits/sec    0             sender
+Nov 19 00:30:20 [  5]   0.00-1.98   sec   828 KBytes  3.43 Mbits/sec                  receiver
+Nov 19 00:30:20 
+Nov 19 00:30:20 iperf Done.
+Nov 19 00:30:33 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:30:33 [  5] local 172.20.10.6 port 58164 connected to 130.162.211.209 port 5201
+Nov 19 00:30:33 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:30:33 [  5]   0.00-1.00   sec   379 KBytes  3.11 Mbits/sec    1   26.3 KBytes       
+Nov 19 00:30:33 [  5]   1.00-2.00   sec   549 KBytes  4.50 Mbits/sec    0   38.2 KBytes       
+Nov 19 00:30:33 [  5]   2.00-2.01   sec  67.1 KBytes  47.2 Mbits/sec    0   38.2 KBytes       
+Nov 19 00:30:33 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:30:33 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:30:33 [  5]   0.00-2.01   sec   995 KBytes  4.05 Mbits/sec    1             sender
+Nov 19 00:30:33 [  5]   0.00-2.07   sec   900 KBytes  3.56 Mbits/sec                  receiver
+Nov 19 00:30:33 
+Nov 19 00:30:33 iperf Done.
+Nov 19 00:30:45 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:30:45 [  5] local 172.20.10.6 port 52092 connected to 130.162.211.209 port 5201
+Nov 19 00:30:45 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:30:45 [  5]   0.00-1.00   sec   960 KBytes  7.85 Mbits/sec    0   73.7 KBytes       
+Nov 19 00:30:45 [  5]   1.00-1.10   sec   126 KBytes  10.5 Mbits/sec    0   77.7 KBytes       
+Nov 19 00:30:45 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:30:45 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:30:45 [  5]   0.00-1.10   sec  1.06 MBytes  8.09 Mbits/sec    0             sender
+Nov 19 00:30:45 [  5]   0.00-1.18   sec   882 KBytes  6.12 Mbits/sec                  receiver
+Nov 19 00:30:45 
+Nov 19 00:30:45 iperf Done.
+Nov 19 00:30:59 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:30:59 [  5] local 172.20.10.6 port 36026 connected to 130.162.211.209 port 5201
+Nov 19 00:30:59 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:30:59 [  5]   0.00-1.00   sec  68.5 KBytes   560 Kbits/sec    1   22.4 KBytes       
+Nov 19 00:30:59 [  5]   1.00-2.00   sec   308 KBytes  2.52 Mbits/sec    0   76.4 KBytes       
+Nov 19 00:30:59 [  5]   2.00-3.00   sec   638 KBytes  5.25 Mbits/sec    0    100 KBytes       
+Nov 19 00:30:59 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:30:59 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:30:59 [  5]   0.00-3.00   sec  1015 KBytes  2.77 Mbits/sec    1             sender
+Nov 19 00:30:59 [  5]   0.00-3.09   sec   798 KBytes  2.11 Mbits/sec                  receiver
+Nov 19 00:30:59 
+Nov 19 00:30:59 iperf Done.
+Nov 19 00:31:11 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:31:11 [  5] local 172.20.10.6 port 45534 connected to 130.162.211.209 port 5201
+Nov 19 00:31:11 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:31:11 [  5]   0.00-0.72   sec  1.04 MBytes  12.1 Mbits/sec    0   93.5 KBytes       
+Nov 19 00:31:11 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:31:11 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:31:11 [  5]   0.00-0.72   sec  1.04 MBytes  12.1 Mbits/sec    0             sender
+Nov 19 00:31:11 [  5]   0.00-0.79   sec   824 KBytes  8.51 Mbits/sec                  receiver
+Nov 19 00:31:11 
+Nov 19 00:31:11 iperf Done.
+Nov 19 00:31:22 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:31:22 [  5] local 172.20.10.6 port 54324 connected to 130.162.211.209 port 5201
+Nov 19 00:31:22 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:31:22 [  5]   0.00-0.86   sec   999 KBytes  9.50 Mbits/sec    0   71.1 KBytes       
+Nov 19 00:31:22 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:31:22 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:31:22 [  5]   0.00-0.86   sec   999 KBytes  9.50 Mbits/sec    0             sender
+Nov 19 00:31:22 [  5]   0.00-0.95   sec   787 KBytes  6.77 Mbits/sec                  receiver
+Nov 19 00:31:22 
+Nov 19 00:31:22 iperf Done.
+Nov 19 00:31:34 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:31:34 [  5] local 172.20.10.6 port 54776 connected to 130.162.211.209 port 5201
+Nov 19 00:31:34 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:31:34 [  5]   0.00-0.85   sec  1015 KBytes  9.76 Mbits/sec    0   72.4 KBytes       
+Nov 19 00:31:34 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:31:34 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:31:34 [  5]   0.00-0.85   sec  1015 KBytes  9.76 Mbits/sec    0             sender
+Nov 19 00:31:34 [  5]   0.00-0.91   sec   815 KBytes  7.31 Mbits/sec                  receiver
+Nov 19 00:31:34 
+Nov 19 00:31:34 iperf Done.
+Nov 19 00:31:45 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:31:45 [  5] local 172.20.10.6 port 35524 connected to 130.162.211.209 port 5201
+Nov 19 00:31:45 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:31:45 [  5]   0.00-0.76   sec  1.01 MBytes  11.2 Mbits/sec    0   92.1 KBytes       
+Nov 19 00:31:45 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:31:45 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:31:45 [  5]   0.00-0.76   sec  1.01 MBytes  11.2 Mbits/sec    0             sender
+Nov 19 00:31:45 [  5]   0.00-0.80   sec   795 KBytes  8.11 Mbits/sec                  receiver
+Nov 19 00:31:45 
+Nov 19 00:31:45 iperf Done.
+Nov 19 00:31:56 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:31:56 [  5] local 172.20.10.6 port 59380 connected to 130.162.211.209 port 5201
+Nov 19 00:31:56 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:31:56 [  5]   0.00-0.45   sec  1000 KBytes  18.4 Mbits/sec    0    132 KBytes       
+Nov 19 00:31:56 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:31:56 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:31:56 [  5]   0.00-0.45   sec  1000 KBytes  18.4 Mbits/sec    0             sender
+Nov 19 00:31:56 [  5]   0.00-0.52   sec   674 KBytes  10.6 Mbits/sec                  receiver
+Nov 19 00:31:56 
+Nov 19 00:31:56 iperf Done.
+Nov 19 00:32:11 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:32:11 [  5] local 172.20.10.6 port 35064 connected to 130.162.211.209 port 5201
+Nov 19 00:32:11 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:32:11 [  5]   0.00-1.00   sec   172 KBytes  1.41 Mbits/sec    0   36.9 KBytes       
+Nov 19 00:32:11 [  5]   1.00-2.00   sec  67.1 KBytes   550 Kbits/sec    0   39.5 KBytes       
+Nov 19 00:32:11 [  5]   2.00-3.00   sec   412 KBytes  3.38 Mbits/sec    0   56.6 KBytes       
+Nov 19 00:32:11 [  5]   3.00-4.00   sec   296 KBytes  2.43 Mbits/sec    0   69.8 KBytes       
+Nov 19 00:32:11 [  5]   4.00-4.14   sec   134 KBytes  7.69 Mbits/sec    0   72.4 KBytes       
+Nov 19 00:32:11 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:32:11 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:32:11 [  5]   0.00-4.14   sec  1.06 MBytes  2.14 Mbits/sec    0             sender
+Nov 19 00:32:11 [  5]   0.00-4.36   sec   894 KBytes  1.68 Mbits/sec                  receiver
+Nov 19 00:32:11 
+Nov 19 00:32:11 iperf Done.
+Nov 19 00:32:23 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:32:23 [  5] local 172.20.10.6 port 48388 connected to 130.162.211.209 port 5201
+Nov 19 00:32:23 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:32:23 [  5]   0.00-1.00   sec   723 KBytes  5.92 Mbits/sec    0   64.5 KBytes       
+Nov 19 00:32:23 [  5]   1.00-1.27   sec   379 KBytes  11.4 Mbits/sec    0   77.7 KBytes       
+Nov 19 00:32:23 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:32:23 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:32:23 [  5]   0.00-1.27   sec  1.08 MBytes  7.09 Mbits/sec    0             sender
+Nov 19 00:32:23 [  5]   0.00-1.33   sec   900 KBytes  5.54 Mbits/sec                  receiver
+Nov 19 00:32:23 
+Nov 19 00:32:23 iperf Done.
+Nov 19 00:32:34 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:32:34 [  5] local 172.20.10.6 port 35556 connected to 130.162.211.209 port 5201
+Nov 19 00:32:34 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:32:34 [  5]   0.00-0.54   sec  1.19 MBytes  18.7 Mbits/sec    0    209 KBytes       
+Nov 19 00:32:34 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:32:34 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:32:34 [  5]   0.00-0.54   sec  1.19 MBytes  18.7 Mbits/sec    0             sender
+Nov 19 00:32:34 [  5]   0.00-0.69   sec   766 KBytes  9.07 Mbits/sec                  receiver
+Nov 19 00:32:34 
+Nov 19 00:32:34 iperf Done.
+Nov 19 00:32:45 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:32:45 [  5] local 172.20.10.6 port 51042 connected to 130.162.211.209 port 5201
+Nov 19 00:32:45 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:32:45 [  5]   0.00-0.55   sec  1.04 MBytes  16.0 Mbits/sec    0    116 KBytes       
+Nov 19 00:32:45 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:32:45 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:32:45 [  5]   0.00-0.55   sec  1.04 MBytes  16.0 Mbits/sec    0             sender
+Nov 19 00:32:45 [  5]   0.00-0.62   sec   752 KBytes  10.0 Mbits/sec                  receiver
+Nov 19 00:32:45 
+Nov 19 00:32:45 iperf Done.
+Nov 19 00:32:57 Connecting to host 130.162.211.209, port 5201
+Nov 19 00:32:57 [  5] local 172.20.10.6 port 38330 connected to 130.162.211.209 port 5201
+Nov 19 00:32:57 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Nov 19 00:32:57 [  5]   0.00-0.69   sec  1.07 MBytes  13.1 Mbits/sec    0    109 KBytes       
+Nov 19 00:32:57 - - - - - - - - - - - - - - - - - - - - - - - - -
+Nov 19 00:32:57 [ ID] Interval           Transfer     Bitrate         Retr
+Nov 19 00:32:57 [  5]   0.00-0.69   sec  1.07 MBytes  13.1 Mbits/sec    0             sender
+Nov 19 00:32:57 [  5]   0.00-0.78   sec   787 KBytes  8.27 Mbits/sec                  receiver
+Nov 19 00:32:57 
+Nov 19 00:32:57 iperf Done.
